@@ -1,0 +1,2 @@
+# VM-Network-Lab-Mixed-OS-Environment-with-Rocky-9-and-Windows-Server-2022
+This guide provides a high level overview for configuring a virtual machine (VM) network consisting of four machines: an Ubuntu client, Windows 11 client, a Windows Server 2022 for active directory(AD), and Rocky Linux server acting as the central network services provider. The focus is on conceptual steps, network architecture, and best practices.
